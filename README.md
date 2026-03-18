@@ -24,7 +24,7 @@ A simple and clean To-Do List web application built using HTML, CSS, and JavaScr
 
 ## 🌐 Live Demo
 
-👉 https://nishant-codemm.github.io/todo-app/
+👉 https://nishant-codemm.github.io/todo-list/
 
 ---
 
